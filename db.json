@@ -21,6 +21,22 @@
         "Range": 5
     }
   ],
+   "matrix": [
+    {
+      "Array Size": 3,
+      "Array": [
+    [
+       2,4,-1,1
+    ],
+    [
+       4,0,7,4
+    ],
+    [
+       1,1,-1,0
+    ]
+        ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
