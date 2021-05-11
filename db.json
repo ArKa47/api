@@ -1,31 +1,8 @@
 {
-  "root_of_equation": [
+  "posts": [
     {
-	"Function": "x^4-13",
-  	"xl": 1.5,
-  	"xr": 2,
-  	"interval": 1,
-  	"Epsilon": 0.000001
-    }
-  ],
-  "newtonInter": [
-    {
-      "x": 7,
-      "Array Size": 4,
-      "Array": [
-	[
-	   5,12
-	],
-	[
-	   6,13
-	],
-	[
-	   9,14
-	],
-	[
-	   11,16
-	],
-      ]
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
