@@ -1,14 +1,24 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+        "Function": "x^4-13",
+        "xl": 1.5,
+        "xr": 2,
+        "interval": 1,
+        "Epsilon": 0.000001
     },
     {
-      "userId": 1,
-      "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+        "Function": "x^4-13",
+        "initial x": 1,
+        "interval": 1,
+        "Range": 5
+    },
+    {
+        "Function": "x^4-13",
+        "x1": 1,
+        "x2": 4,
+        "interval": 1,
+        "Range": 5
     }
   ],
   "profile": {
