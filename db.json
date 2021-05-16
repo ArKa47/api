@@ -1,6 +1,7 @@
 {
   "root_of_equation": [
     {
+        "id": "bisec",
         "Function": "x^4-13",
         "xl": 1.5,
         "xr": 2,
