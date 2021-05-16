@@ -9,12 +9,22 @@
         "Epsilon": 0.000001
     },
     {
+        "id": "falsi",
+        "Function": "x^4-13",
+        "xl": 0,
+        "xr": 2,
+        "interval": 1,
+        "Epsilon": 0.000001
+    },
+    {
+        "id": "secant",
         "Function": "x^4-13",
         "initial x": 1,
         "interval": 1,
         "Range": 5
     },
     {
+        "id": "newton",
         "Function": "x^4-13",
         "x1": 1,
         "x2": 4,
@@ -22,11 +32,6 @@
         "Range": 5
     }
   ],
-  "posts":
-    {
-        "Function": "x^4-10",
-        "xl": 1.5
-    },
   "matrix": [
     {
       "Array Size": 3,
