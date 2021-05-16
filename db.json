@@ -96,7 +96,7 @@
   ],
   "interpolation": [
     {
-      "id": "newton_interpolation"
+      "id": "newton_interpolation",
       "x": 7,
       "Array Size": 4,
       "Array": [
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "id": "lagrange"
+      "id": "lagrange",
       "x": 7,
       "Array Size": 4,
       "Array": [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "id": "spline"
+      "id": "spline",
       "x": 7,
       "Array Size": 4,
       "Array": [
