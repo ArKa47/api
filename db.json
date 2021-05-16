@@ -1,14 +1,27 @@
 {
-  "bisec": [
+  "root_of_equation": [
     {
         "Function": "x^4-13",
         "xl": 1.5,
         "xr": 2,
         "interval": 1,
         "Epsilon": 0.000001
+    },
+    {
+        "Function": "x^4-13",
+        "initial x": 1,
+        "interval": 1,
+        "Range": 5
+    },
+    {
+        "Function": "x^4-13",
+        "x1": 1,
+        "x2": 4,
+        "interval": 1,
+        "Range": 5
     }
   ],
-   "matrix": [
+  "matrix": [
     {
       "Array Size": 3,
       "Array": [
