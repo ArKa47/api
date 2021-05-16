@@ -17,14 +17,14 @@
         "Epsilon": 0.000001
     },
     {
-        "id": "secant",
+        "id": "newton",
         "Function": "x^4-13",
         "initial x": 1,
         "interval": 1,
         "Range": 5
     },
     {
-        "id": "newton",
+        "id": "secant",
         "Function": "x^4-13",
         "x1": 1,
         "x2": 4,
