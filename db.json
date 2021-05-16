@@ -24,15 +24,15 @@
   "posts": [
     {
         "Function": "x^4-10",
-        "xl": 1.5,
+        "xl": 1.5
     },
     {
         "Function": "x^4",
-        "xl": 1.5,
+        "xl": 1.5
     },
     {
         "Function": "x^3",
-        "xl": 1.5,
+        "xl": 1.5
     }
   ],
   "matrix": [
