@@ -94,8 +94,47 @@
       ]
     }
   ],
-  "newtonInter": [
+  "interpolation": [
     {
+      "id": "newton_interpolation"
+      "x": 7,
+      "Array Size": 4,
+      "Array": [
+        [
+           5,12
+        ],
+        [
+           6,13
+        ],
+        [
+           9,14
+        ],
+        [
+           11,16
+        ]
+      ]
+    },
+    {
+      "id": "lagrange"
+      "x": 7,
+      "Array Size": 4,
+      "Array": [
+        [
+           5,12
+        ],
+        [
+           6,13
+        ],
+        [
+           9,14
+        ],
+        [
+           11,16
+        ]
+      ]
+    },
+    {
+      "id": "spline"
       "x": 7,
       "Array Size": 4,
       "Array": [
